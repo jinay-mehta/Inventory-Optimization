@@ -1,0 +1,17 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment and credentials
+.env
+*.env
+
+# Temporary and backup files
+*.tmp
+*.bak
+*.log
+~$*
+
+# Power BI backup files
+*.pbix.bak
